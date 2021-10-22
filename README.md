@@ -1,4 +1,5 @@
-## Features
+# 👋🏻 &nbsp;&nbsp;Hello friends, I am Javier
+
 
 
 ## 🎯 &nbsp;&nbsp;technologies that I use:
