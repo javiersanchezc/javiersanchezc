@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/17464860/138531156-cff2c5cf-438c-47c3-a6d0-bb94917af371.png" alt="banner ">
 
 Senior Software Developer with 7+ years involved in the whole software development life cycle using Java javascript, plsql, angular,
-AWS, Oracle. Passionate about innovation and searching for new technologies like microservices. Very interested in being part of an
-agile team. Looking for a remote position in Latam.
+AWS, Oracle. Passionate about innovation and searching for new technologies like microservices.
 
 ## 🎯 &nbsp;&nbsp;technologies that I use:
 <p align="center">
