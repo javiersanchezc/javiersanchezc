@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🌎 &nbsp;&nbsp;Find me around the web:
+## 🌎 &nbsp;&nbsp;Follow me:
 
 - Talking and sharing in <a href="https://twitter.com/AntSanchezc">Twitter</a>
-- And know a little more about my work in <a href="linkedin.com/in/ja-sanchezcalderon">Linkedin</a>
+- And know a little more about my work in <a href="https://www.linkedin.com/in/ja-sanchezcalderon/">Linkedin</a>
 
 <!--
 **javiersanchezc/javiersanchezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
