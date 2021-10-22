@@ -1,6 +1,6 @@
 # 👋🏻 &nbsp;&nbsp;Hello friends, I am Javier
 
-<img src="https://user-images.githubusercontent.com/17464860/138531156-cff2c5cf-438c-47c3-a6d0-bb94917af371.png" alt="banner that says Alejandra Camacho - Software development enfineer">
+<img src="https://user-images.githubusercontent.com/17464860/138531156-cff2c5cf-438c-47c3-a6d0-bb94917af371.png" alt="banner ">
 
 ## 🎯 &nbsp;&nbsp;technologies that I use:
 <p align="center">
